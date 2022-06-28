@@ -27,7 +27,7 @@ Description: CV, Resume, vCard HTML Template
 /*                      GLOBAL STYLES                              */
 /*-----------------------------------------------------------------*/
 body {
-    color: #3c3c1d;
+    color: #1a1a1a;
     background-color: #0C0C0C;
     font-family: "Roboto Slab",serif;
     overflow-x: hidden;
@@ -59,7 +59,7 @@ li {
     left: 0;
     height: 100%;
     width: 100%;
-    background: #0C0C0C;
+    background: #a65050;
     z-index: 6;
     overflow: hidden;
 }
@@ -82,7 +82,7 @@ li {
 .preloader .lines .line {
     width: 80px;
     height: 1px;
-    background-color: #fff;
+    background-color: rgb(169, 0, 241);
     position: absolute;
     clip: rect(0,0,20px,0);
 }
